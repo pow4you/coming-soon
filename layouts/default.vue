@@ -5,13 +5,14 @@
     <div class="
       
       w-2/3 h-fit
-      grid
+      flex flex-col
       rounded-lg frosted-glass shadow-xl
       border-purple-100 border-2
     ">
       <SocialLinks />
       
       <div class="
+        w-full
         transition-all duration-300 ease-in-out
         max-md:p-2 md:px-6 xl:px-14 
       "> 
