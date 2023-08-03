@@ -14,7 +14,8 @@
       <div class="
         w-full
         transition-all duration-300 ease-in-out
-        max-md:p-2 md:px-6 xl:px-14 
+        py-6
+        max-md:px-2 md:px-6 xl:px-12
       "> 
         <slot />
       </div>
