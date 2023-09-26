@@ -14,5 +14,7 @@ export default defineNuxtConfig({
 
   devtools: {
     enabled: true
-  }
+  },
+
+  plugins: [{ src: '~/plugins/vercel.ts', mode: 'client' }],
 })
