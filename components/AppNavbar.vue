@@ -38,7 +38,6 @@
 
 <script setup>
   const { navigation } = useContent()
-  console.log(navigation)
   const appConfig = useAppConfig()
 </script>
 
