@@ -6,4 +6,4 @@ navigation: false
 
 ## Kontakt:
 * **Name**: Powowo
-* **E-Mail**: kontakt@pow.gay  
+* **E-Mail**: contact@pow.gay  
