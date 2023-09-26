@@ -1,6 +1,5 @@
 <template>
     <div>
-    AppLayout
     <AppNavbar />
         <slot />
     </div>
