@@ -6,5 +6,5 @@ export default defineAppConfig({
         {name: "twitter", icon:"ph:twitter-logo-thin", url: "https://twitter.com/PowowoCat"},
         {name: "bsky", icon:"ph:cloud-sun-thin", url: "https://bsky.app/profile/pow.bsky.social"},
     ],
-    ger_host: false
+    ger_host: true
 })
